@@ -50,10 +50,10 @@ body {
 }
 
 @media screen and (max-width: 500px) {
-    .parent-container {
+    .first-section {
         margin-top: 1em;
     }
-    .child-container {
+    .second-section {
         height: 23em;
         width: 13em;
         border-radius: 10px;
